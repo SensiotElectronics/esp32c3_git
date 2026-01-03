@@ -2,12 +2,12 @@
   "version": "1.2.0",
   "esp8266": {
     "version": "1.2.0",
-    "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/firmware/esp8266.bin",
+    "url": "https://raw.githubusercontent.com/SensiotElectronics/esp32c3_git/refs/heads/master/test/version.json",
     "changelog": "Bug fixes and improvements"
   },
   "esp32": {
     "version": "1.2.0",
-    "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/firmware/esp32.bin",
+    "url": "https://raw.githubusercontent.com/SensiotElectronics/esp32c3_git/refs/heads/master/test/version.json",
     "changelog": "Bug fixes and improvements"
   },
   "release_date": "2024-12-04",
