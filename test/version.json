@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "esp8266": {
-    "version": "1.5.0",
+    "version": "1.6.0",
 
     "url": "https://raw.githubusercontent.com/SensiotElectronics/esp32c3_git/master/test/esp8266.bin",
 
