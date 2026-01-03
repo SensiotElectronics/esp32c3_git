@@ -1,14 +1,14 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "esp8266": {
-    "version": "1.2.0",
+    "version": "1.3.0",
 
     "url": "https://github.com/SensiotElectronics/esp32c3_git/raw/refs/heads/master/test/firmware.bin",
 
     "changelog": "Bug fixes and improvements"
   },
   "esp32": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     
     "url": "https://github.com/SensiotElectronics/esp32c3_git/raw/refs/heads/master/test/firmware.bin",
 
