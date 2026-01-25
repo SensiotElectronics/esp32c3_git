@@ -8,12 +8,12 @@
     "changelog": "Bug fixes and improvements"
   },
   "esp32": {
-    "version": "1.5.0",
+    "version": "1.7.0",
     
     "url": "https://raw.githubusercontent.com/SensiotElectronics/esp32c3_git/master/test/esp32.bin",
 
     "changelog": "Bug fixes and improvements"
   },
-  "release_date": "2026-01-03",
+  "release_date": "2026-01-25",
   "notes": "Stable release"
 }
