@@ -1,14 +1,14 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "esp8266": {
-    "version": "1.7.0",
+    "version": "1.8.0",
 
     "url": "https://raw.githubusercontent.com/SensiotElectronics/esp32c3_git/master/test/esp8266.bin",
 
     "changelog": "Bug fixes and improvements"
   },
   "esp32": {
-    "version": "1.7.0",
+    "version": "1.8.0",
     
     "url": "https://raw.githubusercontent.com/SensiotElectronics/esp32c3_git/master/test/esp32.bin",
 
