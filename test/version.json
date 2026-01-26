@@ -5,14 +5,14 @@
 
     "url": "https://raw.githubusercontent.com/SensiotElectronics/esp32c3_git/master/test/esp8266.bin",
 
-    "changelog": "Bug fixes and improvements"
+    "changelog": "Add device type 8266/32 to json"
   },
   "esp32": {
     "version": "1.9.0",
     
     "url": "https://raw.githubusercontent.com/SensiotElectronics/esp32c3_git/master/test/esp32.bin",
 
-    "changelog": "Bug fixes and improvements"
+    "changelog": "Add device type 8266/32 to json"
   },
   "release_date": "2026-01-25",
   "notes": "Stable release"
