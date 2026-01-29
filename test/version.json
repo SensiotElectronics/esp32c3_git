@@ -1,19 +1,19 @@
 {
-  "version": "1.9.0",
+  "version": "2.0.0",
   "esp8266": {
-    "version": "1.9.0",
+    "version": "2.0.0",
 
     "url": "https://raw.githubusercontent.com/SensiotElectronics/esp32c3_git/master/test/esp8266.bin",
 
-    "changelog": "Add device type 8266/32 to json"
+    "changelog": "Reconnect to mqqt server fixes"
   },
   "esp32": {
-    "version": "1.9.0",
-    
+    "version": "2.0.0",
+
     "url": "https://raw.githubusercontent.com/SensiotElectronics/esp32c3_git/master/test/esp32.bin",
 
-    "changelog": "Add device type 8266/32 to json"
+    "changelog": "Reconnect to mqqt server fixes"
   },
-  "release_date": "2026-01-25",
+  "release_date": "2026-01-29",
   "notes": "Stable release"
 }
